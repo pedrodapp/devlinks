@@ -17,4 +17,4 @@ This project was developed with the following technologies:
 - CSS
 - JavaScript
 
-Made with 💜 during Rocketseat DevLinks.
+Made with 💜 during Rocketseat's Discover.
