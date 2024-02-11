@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-DevLinks is a link aggregator to make content and portfolio available.
+DevLinks is a link aggregator to make content and portfolio easy to find.
 
 ## 🚀 Tecnologias
 
