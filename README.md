@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pedrodapp.github.io/devlinks/">
-  <img alt="devlinks-mockup" src="./screenshot" width="100%">
+  <img alt="devlinks-mockup" src="./screenshot.png" width="100%">
   </a>
 </p>
 
