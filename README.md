@@ -5,11 +5,11 @@
 </p>
 
 
-## 💻 Projeto
+## 💻 Project
 
 Linktree Page containing my portfolio, resume and other featured links.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 This project was developed with the following technologies:
 
