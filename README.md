@@ -1,13 +1,13 @@
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para disponibilizar conteúdo e portfólio.
+DevLinks is a link aggregator to make content and portfolio available.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-Feito com 💜 durante o DevLinks da Rocketseat.
+Made with 💜 during Rocketseat DevLinks.
