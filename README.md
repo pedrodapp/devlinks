@@ -7,7 +7,7 @@
 
 ## 💻 Projeto
 
-DevLinks is a Linktree Page containing my portfolio, resume and other featured links.
+Linktree Page containing my portfolio, resume and other featured links.
 
 ## 🚀 Tecnologias
 
