@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://pedrodapp.github.io/devlinks/">
+  <img alt="projeto Habits" src="./preview.png" width="100%">
+  </a>
+</p>
+
+
 ## 💻 Projeto
 
 DevLinks is a Linktree Page, containing my portfolio, resume and featured links.
