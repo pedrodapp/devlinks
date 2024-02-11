@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://pedrodapp.github.io/devlinks/">
   <img alt="devlinks-mockup" src="./preview.png" width="100%">
   </a>
